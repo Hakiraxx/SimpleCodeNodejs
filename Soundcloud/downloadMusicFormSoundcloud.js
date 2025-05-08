@@ -71,4 +71,4 @@ async function downloadTrack(trackUrl) {
     }
   }
 }
-downloadTrack('https://soundcloud.com/hoanglongnger/noi');
+module.exports = downloadTrack;
