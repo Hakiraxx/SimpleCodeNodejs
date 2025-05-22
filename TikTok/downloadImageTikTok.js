@@ -74,4 +74,4 @@ async function fetchTikTokData() {
     return result.data;
 }
 module.exports = fetchTikTokData;
-//Khong chac nhma cai nay co the get dc luon ca video
+//Khong tai dc video dau dung co thu
